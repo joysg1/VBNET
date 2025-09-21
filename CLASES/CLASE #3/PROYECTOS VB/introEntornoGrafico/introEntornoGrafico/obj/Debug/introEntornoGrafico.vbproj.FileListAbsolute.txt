@@ -1,0 +1,12 @@
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\bin\Debug\introEntornoGrafico.exe.config
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\bin\Debug\introEntornoGrafico.exe
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\bin\Debug\introEntornoGrafico.pdb
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\bin\Debug\introEntornoGrafico.xml
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.Form1.resources
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.Resources.resources
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.vbproj.GenerateResource.Cache
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.exe
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.xml
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.pdb
+D:\PROYECTOS VB\introEntornoGrafico\introEntornoGrafico\obj\Debug\introEntornoGrafico.Form2.resources
