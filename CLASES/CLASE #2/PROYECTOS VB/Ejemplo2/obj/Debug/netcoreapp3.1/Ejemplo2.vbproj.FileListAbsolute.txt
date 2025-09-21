@@ -1,0 +1,13 @@
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.exe
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.deps.json
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.runtimeconfig.json
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.runtimeconfig.dev.json
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.dll
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\bin\Debug\netcoreapp3.1\Ejemplo2.pdb
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.vbprojAssemblyReference.cache
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.AssemblyInfoInputs.cache
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.AssemblyInfo.vb
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.dll
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.pdb
+E:\PROYECTOS VISUAL STUDIO\Ejemplo2\obj\Debug\netcoreapp3.1\Ejemplo2.genruntimeconfig.cache
